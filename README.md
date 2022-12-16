@@ -14,7 +14,7 @@
 # IMPORTANTE
 ---El videojuego cuenta con varios bugs y es un poco corto.
 ---El repo cuenta con un archivo .RAR donde encontraran el ejecutable del juego (.exe)
----Si alguien gusta que le pase el proyecto para modificaciones contactarse en privado queria subir el .RAR del proyecto pero es muy pesado.
+---Si alguien gusta que le pase el proyecto para modificaciones contactarse en privado queria subir el .RAR del proyecto pero es muy pesado y vivo en LATAM XD.
 
 ![Captura de pantalla (58)](https://user-images.githubusercontent.com/99376135/207999006-abb487b1-c7e0-4b8d-ab76-261da3e8f6ee.png)
 
