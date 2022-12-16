@@ -12,5 +12,13 @@
 ---El personaje principal es un guerrero que debe pasar por algunos obstaculos y niveles para rescatar a una princesa.
 
 # IMPORTANTE
----El videojuego cuenta con varios bugs y es un poco corto, si alguien gusta descargar el repo y modificar o agregar mas niveles, personajes, etc, sientace en confianza de hacerlo.
+---El videojuego cuenta con varios bugs y es un poco corto.
 ---El repo cuenta con un archivo .RAR donde encontraran el ejecutable del juego (.exe)
+---Si alguien gusta que le pase el proyecto para modificaciones contactarse en privado queria subir el .RAR del proyecto pero es muy pesado.
+
+![Captura de pantalla (58)](https://user-images.githubusercontent.com/99376135/207999006-abb487b1-c7e0-4b8d-ab76-261da3e8f6ee.png)
+
+
+![Captura de pantalla (59)](https://user-images.githubusercontent.com/99376135/207999104-de1b922b-2f96-4a6d-bd09-5fb479d4ba9d.png)
+
+![Captura de pantalla (60)](https://user-images.githubusercontent.com/99376135/207999164-a38c8b4c-16b5-42ca-925c-77f9fc7e0a4a.png)
